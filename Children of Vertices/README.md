@@ -5,4 +5,4 @@
    - And the last line contains a number denoting the root of the tree or the node from where the dfs on the graph has to be started
 - Output Format :
    - Each line will contain two numbers, the first one denoting the parent vertex and next one denoting its child as ( parent->child )
-- NOTE : All the vertices are to be named uniquely within the range [1, N] , where N denotes the number of vertices
+- NOTE : All the vertices are to be numbered uniquely within the range [1, N] , where N denotes the number of vertices
